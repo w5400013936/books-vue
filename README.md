@@ -1,6 +1,7 @@
 # books-vue
 
-> A Vue.js project
+> 图书管理系统客户端（个人练手项目）  
+技术栈：vue + vue-router + element-ui  
 
 ## Build Setup
 
